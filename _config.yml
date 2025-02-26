@@ -1,5 +1,17 @@
-title: CV
-description: 
-show_downloads: true
+title: Shogo Nakamura
+description: Personal website and CV of Shogo Nakamura
+show_downloads: false
 google_analytics:
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+
+navbar-links:
+  About: "about"
+  Education: "education"
+  Experience: "experience"
+  Research: "research"
+  Publications: "publications"
+  Conferences: "conferences"
+  Others: "others"
+  Contact: "contact"
