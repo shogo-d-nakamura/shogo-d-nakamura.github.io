@@ -1,7 +1,7 @@
 title: Shogo Nakamura
 description: Personal website and CV of Shogo Nakamura
 show_downloads: false
-google_analytics:
+google_analytics: G-Z691KZMBF9
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag

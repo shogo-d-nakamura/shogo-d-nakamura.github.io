@@ -1,8 +1,5 @@
 
----
-layout: default
-title: Home
----
+
 
 # Shogo Nakamura - Curriculum Vitae
 
