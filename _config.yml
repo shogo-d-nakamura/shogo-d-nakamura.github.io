@@ -7,7 +7,6 @@ plugins:
   - jekyll-seo-tag
 
 navbar-links:
-  About: "about"
   Education: "education"
   Experience: "experience"
   Publications: "publications"
