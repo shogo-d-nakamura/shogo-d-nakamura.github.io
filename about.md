@@ -7,8 +7,13 @@ title: About Me
 
 Shogo Nakamura / 中村 彰悟
 
-Institute of Science Tokyo, Department of Life Science and Technology
+Researcher at Xeureka, Inc.
 
-Ph.D. candidate at Sekijima Lab.
+# Research Interest
+
+*   Organic Chemistry
+*   Cheminformatics
+*   Computer Aided Drug Discovery
+
 
 [Back to Home](index.html)
