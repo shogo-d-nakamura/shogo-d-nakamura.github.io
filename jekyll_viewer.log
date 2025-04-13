@@ -1,0 +1,1296 @@
+===== 2025-04-13 19:34:16 =====
+🚀 Starting Jekyll server...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.227 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2025-04-13 19:34:17
+                    jekyll_viewer.log
+                    ...done in 0.093591 seconds.
+                    
+[2025-04-13 19:34:17] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:21 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:34:17] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:34:17] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:34:17] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:34:17] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+===== 2025-04-13 19:36:55 =====
+🚀 Starting Jekyll server...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.313 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2025-04-13 19:36:56
+                    jekyll_viewer.log
+                    ...done in 0.113279 seconds.
+                    
+[2025-04-13 19:36:56] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:23 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:36:56] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:36:56] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:36:56] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:36:56] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:36:56] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2025-04-13 19:43:13
+                    jekyll_viewer.log
+                    ...done in 0.164979 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 19:44:05
+                    jekyll_viewer.log
+                    ...done in 0.140498 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 19:45:46
+                    jekyll_viewer.log
+                    ...done in 0.155971 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 19:45:54
+                    jekyll_viewer.log
+                    ...done in 0.122844 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 19:45:57
+                    jekyll_viewer.log
+                    ...done in 0.118539 seconds.
+                    
+===== 2025-04-13 19:48:07 =====
+🚀 Starting Jekyll server...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.246 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+      Regenerating: 1 file(s) changed at 2025-04-13 19:48:08
+                    jekyll_viewer.log
+        LiveReload: Browser connected
+                    ...done in 0.128338 seconds.
+                    
+[2025-04-13 19:48:08] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:48:08] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:48:08] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:48:08] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:48:08] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 2 file(s) changed at 2025-04-13 19:49:51
+                    jekyll_viewer.log
+                    newpage.md
+                    ...done in 0.160752 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-04-13 19:50:47
+                    jekyll_viewer.log
+                    newpage.md
+                    ...done in 0.157496 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 19:51:21
+                    jekyll_viewer.log
+                    ...done in 0.176814 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-04-13 19:51:30
+                    jekyll_viewer.log
+                    newpage.md
+                    ...done in 0.126274 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 19:52:51
+                    jekyll_viewer.log
+                    ...done in 0.158125 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 19:53:00
+                    jekyll_viewer.log
+                    ...done in 0.124037 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 19:53:12
+                    jekyll_viewer.log
+                    ...done in 0.143441 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 19:53:14
+                    jekyll_viewer.log
+                    ...done in 0.117735 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-04-13 19:53:19
+                    jekyll_viewer.log
+                    newpage.md
+                    ...done in 0.112435 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-04-13 19:53:25
+                    jekyll_viewer.log
+                    newpage.md
+                    ...done in 0.121685 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-04-13 19:53:35
+                    jekyll_viewer.log
+                    newpage.md
+                    ...done in 0.11114 seconds.
+                    
+      Regenerating: 11 file(s) changed at 2025-04-13 19:53:51
+                    jekyll_viewer.log
+                    _layouts/post.html
+                    _layouts/page.html
+                    _layouts/tags.html
+                    _layouts/home.html
+                    _layouts/default.html
+                    _layouts/tag.html
+                    _layouts/category.html
+                    _layouts/compress.html
+                    _layouts/archives.html
+                    _layouts/categories.html
+                    ...done in 0.146 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 19:54:02
+                    jekyll_viewer.log
+                    ...done in 0.146038 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-04-13 19:54:05
+                    jekyll_viewer.log
+                    newpage.md
+                    ...done in 0.119349 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-04-13 19:54:11
+                    jekyll_viewer.log
+                    newpage.md
+                    ...done in 0.096277 seconds.
+                    
+      Regenerating: 44 file(s) changed at 2025-04-13 19:54:17
+                    jekyll_viewer.log
+                    _includes/comments/utterances.html
+                    _includes/comments/disqus.html
+                    _includes/comments/giscus.html
+                    _includes/post-nav.html
+                    _includes/post-paginator.html
+                    _includes/media-url.html
+                    _includes/metadata-hook.html
+                    _includes/toc.html
+                    _includes/notification.html
+                    _includes/jsdelivr-combine.html
+                    _includes/lang.html
+                    _includes/origin-type.html
+                    _includes/language-alias.html
+                    _includes/favicons.html
+                    _includes/toc-status.html
+                    _includes/js-selector.html
+                    _includes/search-loader.html
+                    _includes/trending-tags.html
+                    _includes/refactor-content.html
+                    _includes/comment.html
+                    _includes/read-time.html
+                    _includes/head.html
+                    _includes/post-description.html
+                    _includes/footer.html
+                    _includes/post-sharing.html
+                    _includes/search-results.html
+                    _includes/update-list.html
+                    _includes/datetime.html
+                    _includes/sidebar.html
+                    _includes/topbar.html
+                    _includes/related-posts.html
+                    _includes/embed/audio.html
+                    _includes/embed/video.html
+                    _includes/embed/youtube.html
+                    _includes/embed/twitch.html
+                    _includes/embed/bilibili.html
+                    _includes/analytics/goatcounter.html
+                    _includes/analytics/google.html
+                    _includes/analytics/matomo.html
+                    _includes/analytics/umami.html
+                    _includes/analytics/fathom.html
+                    _includes/analytics/cloudflare.html
+                    _includes/pageviews/goatcounter.html
+                    ...done in 0.119214 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 19:54:29
+                    jekyll_viewer.log
+                    ...done in 0.147332 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 19:54:31
+                    jekyll_viewer.log
+                    ...done in 0.123442 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 19:54:36
+                    jekyll_viewer.log
+                    ...done in 0.114031 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 19:54:38
+                    jekyll_viewer.log
+                    ...done in 0.119853 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2025-04-13 19:54:45
+                    jekyll_viewer.log
+                    newpage.md
+                    ...done in 0.122432 seconds.
+                    
+===== 2025-04-13 19:57:13 =====
+🚀 Starting Jekyll server...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.242 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2025-04-13 19:57:14
+                    jekyll_viewer.log
+                    ...done in 0.092221 seconds.
+                    
+[2025-04-13 19:57:14] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:57:14] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:21 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:57:14] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 2 file(s) changed at 2025-04-13 19:57:46
+                    jekyll_viewer.log
+                    newpage.md
+                    ...done in 0.160853 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 19:58:00
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.16009 seconds.
+                    
+===== 2025-04-13 19:58:21 =====
+🚀 Starting Jekyll server...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    done in 0.247 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2025-04-13 19:58:22
+                    jekyll_viewer.log
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.129753 seconds.
+                    
+[2025-04-13 19:58:22] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:21 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:58:27] ERROR '/src' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 19:59:49
+                    jekyll_viewer.log
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.177063 seconds.
+                    
+[2025-04-13 19:59:49] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:59:49] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:21 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:59:49] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:21 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 19:59:49] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2025-04-13 19:59:52
+                    jekyll_viewer.log
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.135407 seconds.
+                    
+[2025-04-13 19:59:52] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2025-04-13 20:00:17
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.158347 seconds.
+                    
+[2025-04-13 20:00:17] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2025-04-13 20:00:24
+                    _posts/2025-04-13-newpost.md
+                    ...done in 0.134127 seconds.
+                    
+[2025-04-13 20:00:24] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 20:00:24] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:8 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 20:00:24] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+===== 2025-04-13 22:27:13 =====
+🚀 Starting Jekyll server...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.295 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+      Regenerating: 1 file(s) changed at 2025-04-13 22:27:14
+                    jekyll_viewer.log
+        LiveReload: Browser connected
+                    ...done in 0.19063 seconds.
+                    
+[2025-04-13 22:27:15] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:18 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:27:15] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:27:15] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:18 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:27:15] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:21 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:27:15] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:27:15] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2025-04-13 22:28:17
+                    _posts/2025-04-13-newpost.md
+                    ...done in 0.208898 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 22:28:23
+                    _posts/2025-04-13-newpost.md
+                    ...done in 0.138346 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 22:28:45
+                    _posts/2025-04-13-newpost.md
+                    ...done in 0.176648 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 22:35:32
+                    _posts/2025-04-13-test.md
+                    ...done in 0.183752 seconds.
+                    
+[2025-04-13 22:35:32] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:8 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:35:32] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:8 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2025-04-13 22:35:51
+                    _posts/2025-04-13-newpost.md
+                    ...done in 0.149454 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 22:35:59
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.122457 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 22:36:02
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.144684 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 22:36:07
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.117055 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 22:36:08
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.130985 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 22:36:10
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.119891 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 22:37:24
+                    _posts/スクリーンショット 2025-04-13 22.36.36.png
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.192703 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-13 22:37:25
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.133675 seconds.
+                    
+[2025-04-13 22:37:32] ERROR '/スクリーンショット 2025-04-13 22.36.36.png' not found.
+      Regenerating: 4 file(s) changed at 2025-04-13 22:38:50
+                    _posts/2019-08-08-text-and-typography.md
+                    _posts/2019-08-08-write-a-new-post.md
+                    _posts/2019-08-09-getting-started.md
+                    _posts/2019-08-11-customize-the-favicon.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.315067 seconds.
+                    
+[2025-04-13 22:38:51] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:31 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:38:51] ERROR '/スクリーンショット 2025-04-13 22.36.36.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:39:06
+                    _posts/2019-08-08-text-and-typography.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.31386 seconds.
+                    
+[2025-04-13 22:39:06] ERROR '/スクリーンショット 2025-04-13 22.36.36.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:39:18
+                    _posts/2019-08-08-text-and-typography.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.248775 seconds.
+                    
+[2025-04-13 22:39:18] ERROR '/スクリーンショット 2025-04-13 22.36.36.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:39:48
+                    _posts/2019-08-08-text-and-typography.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.306388 seconds.
+                    
+[2025-04-13 22:39:49] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:39:49] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:39:49] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:8 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:39:49] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:39:49] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:39:49] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:8 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:39:49] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:8 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2025-04-13 22:39:53
+                    _posts/2019-08-08-write-a-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.231651 seconds.
+                    
+[2025-04-13 22:39:54] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:39:54] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:39:54] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:8 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:39:54] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:39:54] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:21 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2025-04-13 22:39:58
+                    _posts/2019-08-09-getting-started.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.210301 seconds.
+                    
+[2025-04-13 22:39:59] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:39:59] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:39:59] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:21 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2025-04-13 22:40:05
+                    _posts/2019-08-11-customize-the-favicon.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.197587 seconds.
+                    
+[2025-04-13 22:40:05] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:40:05] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:40:06] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:40:06] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2025-04-13 22:40:19
+                    _posts/2019-08-08-text-and-typography.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.223386 seconds.
+                    
+[2025-04-13 22:40:20] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:40:20] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:40:20] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:21 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:40:20] ERROR '/commons/devices-mockup.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:42:41
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.241747 seconds.
+                    
+[2025-04-13 22:42:41] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:41] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:41] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:41] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:41] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:41] ERROR '/commons/devices-mockup.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:42:44
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.190661 seconds.
+                    
+[2025-04-13 22:42:44] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:44] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:44] ERROR '/commons/devices-mockup.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:42:47
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.201186 seconds.
+                    
+[2025-04-13 22:42:47] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:47] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:47] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:47] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:47] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:47] ERROR '/commons/devices-mockup.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:42:52
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.176249 seconds.
+                    
+[2025-04-13 22:42:53] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:8 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:53] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:53] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:53] ERROR '/commons/devices-mockup.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:42:54
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.19517 seconds.
+                    
+[2025-04-13 22:42:54] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:54] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:54] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:42:54] ERROR '/commons/devices-mockup.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:42:59
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.178444 seconds.
+                    
+[2025-04-13 22:43:00] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:8 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:00] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:00] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:00] ERROR '/commons/devices-mockup.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:43:05
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.188489 seconds.
+                    
+[2025-04-13 22:43:05] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:05] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:8 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:05] ERROR '/commons/devices-mockup.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:43:09
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.189034 seconds.
+                    
+[2025-04-13 22:43:10] ERROR '/commons/devices-mockup.png' not found.
+      Regenerating: 2 file(s) changed at 2025-04-13 22:43:20
+                    _posts/2025_images/スクリーンショット 2025-04-13 22.36.36.png
+                    _posts/スクリーンショット 2025-04-13 22.36.36.png
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.218222 seconds.
+                    
+[2025-04-13 22:43:20] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:20] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:20] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:20] ERROR '/commons/devices-mockup.png' not found.
+      Regenerating: 2 file(s) changed at 2025-04-13 22:43:28
+                    _posts/2025_images/kakizome.png
+                    _posts/2025_images/スクリーンショット 2025-04-13 22.36.36.png
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.185748 seconds.
+                    
+[2025-04-13 22:43:28] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:28] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:28] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:28] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:28] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:28] ERROR '/commons/devices-mockup.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:43:38
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.230378 seconds.
+                    
+[2025-04-13 22:43:38] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:38] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:38] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:43:38] ERROR '/commons/devices-mockup.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:43:59
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.241751 seconds.
+                    
+[2025-04-13 22:44:00] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:44:00] ERROR '/commons/devices-mockup.png' not found.
+[2025-04-13 22:44:06] ERROR '/_posts/images/kakizome.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:44:23
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.241185 seconds.
+                    
+[2025-04-13 22:44:23] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:44:23] ERROR '/posts/images/kakizome.png' not found.
+[2025-04-13 22:44:27] ERROR '/posts/images/kakizome.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:44:41
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.228414 seconds.
+                    
+[2025-04-13 22:44:42] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:8 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:44:42] ERROR '/posts/images/kakizome.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:44:43
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.212349 seconds.
+                    
+[2025-04-13 22:44:43] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:8 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:44:43] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:44:43] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:44:43] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:44:43] ERROR '/posts/images/kakizome.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:44:49
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.19342 seconds.
+                    
+[2025-04-13 22:44:50] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:8 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:44:50] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:44:50] ERROR '/posts/images/kakizome.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:45:03
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.229141 seconds.
+                    
+[2025-04-13 22:45:03] ERROR '/posts/2025_images/kakizome.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:45:07
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.209448 seconds.
+                    
+[2025-04-13 22:45:07] ERROR '/_posts/2025_images/kakizome.png' not found.
+[2025-04-13 22:45:23] ERROR '/_posts/2025_images/kakizome.png' not found.
+      Regenerating: 1 file(s) changed at 2025-04-13 22:55:47
+                    _posts/2025-04-13-newpost.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.297896 seconds.
+                    
+[2025-04-13 22:55:47] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:23 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:55:47] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:18 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:55:47] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:55:47] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:55:47] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:55:47] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 22:55:47] ERROR '/_posts/2025_images/kakizome.png' not found.
