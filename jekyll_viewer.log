@@ -1294,3 +1294,116 @@ LiveReload address: http://127.0.0.1:35729
 	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
 	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
 [2025-04-13 22:55:47] ERROR '/_posts/2025_images/kakizome.png' not found.
+      Regenerating: 2 file(s) changed at 2025-04-13 22:59:45
+                    _posts/_customize-the-favicon.md
+                    _posts/2019-08-11-customize-the-favicon.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.238706 seconds.
+                    
+[2025-04-13 22:59:46] ERROR '/_posts/2025_images/kakizome.png' not found.
+      Regenerating: 2 file(s) changed at 2025-04-13 23:00:01
+                    _posts/_text-and-typography.md
+                    _posts/2019-08-08-text-and-typography.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.208444 seconds.
+                    
+[2025-04-13 23:00:01] ERROR '/_posts/2025_images/kakizome.png' not found.
+      Regenerating: 2 file(s) changed at 2025-04-13 23:00:09
+                    _posts/_write-a-new-post.md
+                    _posts/2019-08-08-write-a-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.157244 seconds.
+                    
+[2025-04-13 23:00:10] ERROR '/_posts/2025_images/kakizome.png' not found.
+      Regenerating: 2 file(s) changed at 2025-04-13 23:00:19
+                    _posts/_getting-started.md
+                    _posts/2019-08-09-getting-started.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.148651 seconds.
+                    
+[2025-04-13 23:00:19] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 23:00:19] ERROR '/_posts/2025_images/kakizome.png' not found.
+      Regenerating: 2 file(s) changed at 2025-04-13 23:00:26
+                    .gitignore
+                    jekyll_viewer.log
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.134191 seconds.
+                    
+[2025-04-13 23:00:26] ERROR '/_posts/2025_images/kakizome.png' not found.
+      Regenerating: 2 file(s) changed at 2025-04-13 23:00:27
+                    .gitignore
+                    jekyll_viewer.log
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.117047 seconds.
+                    
+[2025-04-13 23:00:27] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2025-04-13 23:00:27] ERROR '/_posts/2025_images/kakizome.png' not found.
+      Regenerating: 2 file(s) changed at 2025-04-13 23:00:33
+                    .gitignore
+                    jekyll_viewer.log
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.118658 seconds.
+                    
+[2025-04-13 23:00:34] ERROR '/_posts/2025_images/kakizome.png' not found.
