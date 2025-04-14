@@ -1495,3 +1495,173 @@ LiveReload address: http://127.0.0.1:35729
 [33m                    [0m
                     ...done in 0.129366 seconds.
                     
+      Regenerating: 1 file(s) changed at 2025-04-15 00:08:12
+                    jekyll_viewer.log
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.205914 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-15 00:08:20
+                    jekyll_viewer.log
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.13743 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-15 00:09:37
+                    jekyll_viewer.log
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.212231 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-15 00:09:42
+                    jekyll_viewer.log
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.12816 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-15 00:09:45
+                    jekyll_viewer.log
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.134158 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-15 00:09:59
+                    jekyll_viewer.log
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.166107 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-15 00:10:02
+                    jekyll_viewer.log
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.155468 seconds.
+                    
+      Regenerating: 11 file(s) changed at 2025-04-15 00:18:16
+                    jekyll_viewer.log
+                    _layouts/post.html
+                    _layouts/page.html
+                    _layouts/tags.html
+                    _layouts/home.html
+                    _layouts/default.html
+                    _layouts/tag.html
+                    _layouts/category.html
+                    _layouts/compress.html
+                    _layouts/archives.html
+                    _layouts/categories.html
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.195877 seconds.
+                    
+      Regenerating: 44 file(s) changed at 2025-04-15 00:20:41
+                    jekyll_viewer.log
+                    _includes/comments/utterances.html
+                    _includes/comments/disqus.html
+                    _includes/comments/giscus.html
+                    _includes/post-nav.html
+                    _includes/post-paginator.html
+                    _includes/media-url.html
+                    _includes/embed/audio.html
+                    _includes/embed/video.html
+                    _includes/embed/youtube.html
+                    _includes/embed/twitch.html
+                    _includes/embed/bilibili.html
+                    _includes/metadata-hook.html
+                    _includes/toc.html
+                    _includes/notification.html
+                    _includes/jsdelivr-combine.html
+                    _includes/lang.html
+                    _includes/origin-type.html
+                    _includes/language-alias.html
+                    _includes/favicons.html
+                    _includes/toc-status.html
+                    _includes/js-selector.html
+                    _includes/search-loader.html
+                    _includes/trending-tags.html
+                    _includes/refactor-content.html
+                    _includes/comment.html
+                    _includes/read-time.html
+                    _includes/head.html
+                    _includes/post-description.html
+                    _includes/footer.html
+                    _includes/post-sharing.html
+                    _includes/search-results.html
+                    _includes/update-list.html
+                    _includes/datetime.html
+                    _includes/sidebar.html
+                    _includes/topbar.html
+                    _includes/related-posts.html
+                    _includes/analytics/goatcounter.html
+                    _includes/analytics/google.html
+                    _includes/analytics/matomo.html
+                    _includes/analytics/umami.html
+                    _includes/analytics/fathom.html
+                    _includes/analytics/cloudflare.html
+                    _includes/pageviews/goatcounter.html
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.175365 seconds.
+                    

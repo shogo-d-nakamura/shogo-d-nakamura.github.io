@@ -242,4 +242,5 @@ jekyll_compose:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
