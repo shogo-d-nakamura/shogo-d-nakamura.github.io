@@ -1468,3 +1468,30 @@ LiveReload address: http://127.0.0.1:35729
 	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
 	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
 	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 2 file(s) changed at 2025-04-15 00:01:10
+                    jekyll_viewer.log
+                    _posts/2025_images/kakizome.png
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.320317 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-04-15 00:01:12
+                    jekyll_viewer.log
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.129366 seconds.
+                    

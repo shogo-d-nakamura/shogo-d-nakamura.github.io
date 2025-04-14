@@ -239,3 +239,7 @@ jekyll_compose:
       category: ""
       tags: []
       published: True
+
+plugins:
+  - jekyll-sitemap
+
