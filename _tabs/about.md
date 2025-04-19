@@ -3,6 +3,15 @@
 icon: fas fa-info-circle
 order: 4
 ---
+Shogo Nakamura / 中村 彰悟
+
+Researcher at Xeureka, Inc.
+
+# Research Interest
+
+*   Organic Chemistry
+*   Cheminformatics
+*   Computer Aided Drug Discovery
 
 
 # Education
