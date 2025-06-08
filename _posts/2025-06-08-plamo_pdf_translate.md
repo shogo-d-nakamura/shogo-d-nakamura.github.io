@@ -27,9 +27,9 @@ macOSはSequoia15.4.1, M4のmacbookでメモリ16 GBで動作確認済みです�
 
 
 run.shにサンプルを示しています。\
-`zsh install.sh` でvenv環境を作成したら、run.shのように -i で翻訳したいPDF or PDFが入ったディレクトリを指定します。\
+`zsh install.sh` でvenv環境を作成し、`python DL_plamo_translate.py` でPLaMo translateをダウンロードしたら、run.shのように -i で翻訳したいPDF or PDFが入ったディレクトリを指定します。\
 PDFファイル(article.pdf)を指定した場合、article-out.pdf, article-dual.pdfが出力されます。\
-ディレクトリ(articles)を指定した場合、articles-outを作成し、その中に{$FILENAME}-out.pdf, {$FILENAME}-dual.pdfを出力します。
+ディレクトリ(articles)を指定した場合、articles-out/を作成し、その中に順次{$PDF_FILENAME}-out.pdf, {$PDF_FILENAME}-dual.pdfを出力します。
 
 
 ```zsh
