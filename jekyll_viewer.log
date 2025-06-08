@@ -10680,3 +10680,355 @@ LiveReload address: http://127.0.0.1:35729
 [33m                    [0m
                     ...done in 0.184592 seconds.
                     
+===== 2025-06-08 10:54:25 =====
+🚀 Starting Jekyll server...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    done in 0.388 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2025-06-08 10:54:26
+                    jekyll_viewer.log
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    ...done in 0.234561 seconds.
+                    
+[2025-06-08 10:54:27] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2025-06-08 10:56:21
+                    _posts/2025-06-08-my-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    ...done in 0.199266 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-08 10:56:23
+                    _posts/2025-06-08-my-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    ...done in 0.165738 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-08 10:56:27
+                    _posts/2025-06-08-my-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    ...done in 0.14807 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-08 10:56:28
+                    _posts/2025-06-08-my-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    ...done in 0.161022 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-08 10:56:48
+                    _posts/2025-06-08-my-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    ...done in 0.188047 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-08 10:56:53
+                    _posts/2025-06-08-my-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    ...done in 0.181995 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-08 10:56:57
+                    _posts/2025-06-08-my-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    ...done in 0.146452 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-08 10:56:59
+                    _posts/2025-06-08-my-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    ...done in 0.169987 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-08 10:57:01
+                    _posts/2025-06-08-my-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    ...done in 0.158639 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-08 10:57:03
+                    _posts/2025-06-08-my-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    ...done in 0.190013 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-08 10:57:10
+                    _posts/2025-06-08-my-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    ...done in 0.181977 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-08 10:57:15
+                    _posts/2025-06-08-my-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    ...done in 0.165709 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-08 10:57:17
+                    _posts/2025-06-08-my-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    ...done in 0.185598 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-06-08 10:57:23
+                    _posts/2025-06-08-my-new-post.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/posts/my-new-post/index.html[0m[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-05-25-my-new-post.md[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-06-08-my-new-post.md[0m
+[33m                    [0m
+                    ...done in 0.149451 seconds.
+                    
