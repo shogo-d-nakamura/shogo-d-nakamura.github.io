@@ -1,11 +1,13 @@
 ---
 layout: post
-title: PLaMo translateでPDFのレイアウトを崩さずに翻訳 (mac OS)
+title: PLaMo翻訳を使ってPDFのレイアウトを崩さずに翻訳(mac OS)
 date: 2025-06-08 10:33 +0900
 description: ''
 category: ''
 tags: [PLaMo, LLM, PDFMathTranslate]
 published: true
+lang: ja
+ref: plamo_pdf_translate
 ---
 
 

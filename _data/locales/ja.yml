@@ -1,0 +1,69 @@
+# The layout text of site
+
+# ----- Commons label -----
+
+layout:
+  post: 投稿
+  category: カテゴリ
+  tag: タグ
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: ホーム
+  categories: カテゴリ
+  tags: タグ
+  archives: アーカイブ
+  about: このサイトについて
+
+# text displayed in the footer
+footer:
+  license:
+    template: このサイトは :LICENSE_NAME ライセンスの下で提供されています。
+    name: MIT
+
+# ----- Posts related labels -----
+
+post:
+  written_by: 作成者
+  posted: 投稿日
+  updated: 更新日
+  words: 文字
+  pageview_measure: 表示回数
+  read_time:
+    unit: 分
+    prompt: 読了時間
+  relate_posts: 関連記事
+  share: シェア
+  button:
+    next: 新しい記事
+    previous: 古い記事
+    copy_code:
+      succeed: コピーしました！
+    share_link:
+      title: リンクをシェア
+      succeed: リンクがコピーされました！
+
+# ----- Messages -----
+
+msg:
+  no_results: 検索結果が見つかりませんでした。
+  home: ホーム
+  copy_link: リンクをコピー
+
+# ----- Search -----
+
+search:
+  hint: 検索
+  cancel: キャンセル
+  no_results: おっと！検索結果が見つかりませんでした。
+
+# ----- 404 Error -----
+
+not_found:
+  statment: 申し訳ございません。ページが見つかりません。または削除された可能性があります。
+
+# ----- General -----
+
+site:
+  title: サイトタイトル

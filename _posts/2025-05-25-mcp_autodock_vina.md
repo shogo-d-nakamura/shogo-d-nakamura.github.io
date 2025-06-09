@@ -6,6 +6,8 @@ description: ''
 category: ''
 tags: [MCP, Docking, Python, LLM, Claude]
 published: true
+lang: ja
+ref: mcp_autodock_vina
 ---
 
 
