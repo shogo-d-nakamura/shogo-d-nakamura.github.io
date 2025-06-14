@@ -3,7 +3,7 @@ layout: post
 title: MCPでAutoDock Vinaを動かす
 date: 2025-05-25 23:09 +0900
 description: ''
-category: ''
+category: 'Drug Discovery'
 tags: [MCP, Docking, Python, LLM, Claude]
 published: true
 lang: ja

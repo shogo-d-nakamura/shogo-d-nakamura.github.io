@@ -1,9 +1,9 @@
 ---
 layout: post
-title: translating-pdfs-without-breaking-layout-using-plamo-translate-macos
+title: Translate PDFs without breaking layout using PLaMo translate (macOS)
 date: 2025-06-08 10:33 +0900
 description: ''
-category: ''
+category: 'English'
 tags: [PLaMo, LLM, PDFMathTranslate]
 published: true
 lang: en

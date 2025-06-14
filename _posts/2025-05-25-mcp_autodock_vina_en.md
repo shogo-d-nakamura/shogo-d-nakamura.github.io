@@ -1,9 +1,9 @@
 ---
 layout: post
-title: running-autodock-vina-with-mcp
+title: Running AutoDock Vina via MCP
 date: 2025-05-25 23:09 +0900
 description: ''
-category: ''
+category: 'Drug Discovery'
 tags: [MCP, Docking, Python, LLM, Claude]
 published: true
 lang: en
