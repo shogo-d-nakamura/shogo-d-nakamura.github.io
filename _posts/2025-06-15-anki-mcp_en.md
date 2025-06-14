@@ -34,7 +34,7 @@ uv pip install -e .
 
 2. Add to your Claude Desktop configuration file (claude_desktop_config.json):
 
-
+```json
 {
   "mcpServers": {
     
@@ -49,6 +49,7 @@ uv pip install -e .
 
   "globalShortcut": ""
 }
+```
 
 
 # Example
