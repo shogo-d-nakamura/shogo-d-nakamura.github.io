@@ -16,7 +16,6 @@ Whenever I encounter confusing English expressions, I quickly invoke the LLM usi
 
 
 repo:\
-
 https://github.com/shogo-d-nakamura/anki-mcp
 
 
