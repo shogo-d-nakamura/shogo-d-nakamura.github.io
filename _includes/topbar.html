@@ -77,8 +77,14 @@
 
       <div id="lang-toggle" class="ms-3">
         <div class="btn-group" role="group" aria-label="Language selection">
-          <button type="button" id="lang-ja" class="btn btn-outline-secondary btn-sm active" title="Japanese">JA</button>
-          <button type="button" id="lang-en" class="btn btn-outline-secondary btn-sm" title="English">EN</button>
+          <button type="button" id="lang-ja" class="btn btn-outline-secondary btn-sm active" 
+                  title="Switch to Japanese (Alt+L to toggle)" 
+                  aria-pressed="true"
+                  aria-label="Japanese language">JA</button>
+          <button type="button" id="lang-en" class="btn btn-outline-secondary btn-sm" 
+                  title="Switch to English (Alt+L to toggle)" 
+                  aria-pressed="false"
+                  aria-label="English language">EN</button>
         </div>
       </div>
     </div>

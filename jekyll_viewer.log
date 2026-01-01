@@ -11634,3 +11634,601 @@ LiveReload address: http://127.0.0.1:35729
                     
 [31m                    ------------------------------------------------[0m
 🛑 Stopping Jekyll server...
+===== 2025-06-15 01:21:46 =====
+🚀 Starting Jekyll server...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.575 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2025-06-15 01:21:47
+                    jekyll_viewer.log
+                    ...done in 0.390399 seconds.
+                    
+===== 2025-06-15 01:28:33 =====
+🚀 Starting Jekyll server...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.522 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+      Regenerating: 1 file(s) changed at 2025-06-15 01:28:34
+                    jekyll_viewer.log
+        LiveReload: Browser connected
+                    ...done in 0.421646 seconds.
+                    
+===== 2025-06-15 01:29:47 =====
+🚀 Starting Jekyll server...
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.503 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+        LiveReload: Browser connected
+===== 2025-06-15 01:38:55 =====
+🚀 Starting Jekyll server...
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.675 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+#<Thread:0x000000012b91a3a8 /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:39 run> terminated with exception (report_on_exception is true):
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_server'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:45:in 'block (2 levels) in Jekyll::Commands::Serve::LiveReloadReactor#start'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run_machine'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:42:in 'block in Jekyll::Commands::Serve::LiveReloadReactor#start'
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.4.1   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_server'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:45:in 'block (2 levels) in Jekyll::Commands::Serve::LiveReloadReactor#start'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run_machine'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:42:in 'block in Jekyll::Commands::Serve::LiveReloadReactor#start'
+🛑 Stopping Jekyll server...
+===== 2025-06-15 01:55:16 =====
+🚀 Starting Jekyll server...
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.405 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+#<Thread:0x000000012d6341c8 /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:39 run> terminated with exception (report_on_exception is true):
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_server'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:45:in 'block (2 levels) in Jekyll::Commands::Serve::LiveReloadReactor#start'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run_machine'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:42:in 'block in Jekyll::Commands::Serve::LiveReloadReactor#start'
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.4.1   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_server'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:45:in 'block (2 levels) in Jekyll::Commands::Serve::LiveReloadReactor#start'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run_machine'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:42:in 'block in Jekyll::Commands::Serve::LiveReloadReactor#start'
+🛑 Stopping Jekyll server...
+===== 2025-06-15 02:03:54 =====
+🚀 Starting Jekyll server...
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.415 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+#<Thread:0x000000011e7a2898 /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:39 run> terminated with exception (report_on_exception is true):
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_server'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:45:in 'block (2 levels) in Jekyll::Commands::Serve::LiveReloadReactor#start'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run_machine'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:42:in 'block in Jekyll::Commands::Serve::LiveReloadReactor#start'
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.4.1   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_server'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:45:in 'block (2 levels) in Jekyll::Commands::Serve::LiveReloadReactor#start'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run_machine'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:42:in 'block in Jekyll::Commands::Serve::LiveReloadReactor#start'
+🛑 Stopping Jekyll server...
+===== 2025-06-15 10:43:12 =====
+🚀 Starting Jekyll server...
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    done in 0.609 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+#<Thread:0x00000001268dea38 /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:39 run> terminated with exception (report_on_exception is true):
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_server'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:45:in 'block (2 levels) in Jekyll::Commands::Serve::LiveReloadReactor#start'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run_machine'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:42:in 'block in Jekyll::Commands::Serve::LiveReloadReactor#start'
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.4.1   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_server'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:45:in 'block (2 levels) in Jekyll::Commands::Serve::LiveReloadReactor#start'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run_machine'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:42:in 'block in Jekyll::Commands::Serve::LiveReloadReactor#start'
+🛑 Stopping Jekyll server...
+===== 2025-06-15 10:44:22 =====
+🚀 Starting Jekyll server...
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    done in 0.449 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+#<Thread:0x000000012090ba70 /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:39 run> terminated with exception (report_on_exception is true):
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_server'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:45:in 'block (2 levels) in Jekyll::Commands::Serve::LiveReloadReactor#start'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run_machine'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:42:in 'block in Jekyll::Commands::Serve::LiveReloadReactor#start'
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.4.1   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_server'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:45:in 'block (2 levels) in Jekyll::Commands::Serve::LiveReloadReactor#start'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run_machine'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:42:in 'block in Jekyll::Commands::Serve::LiveReloadReactor#start'
+🛑 Stopping Jekyll server...
+===== 2025-06-15 11:51:39 =====
+🚀 Starting Jekyll server...
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.544 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+#<Thread:0x0000000122bd2db0 /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:39 run> terminated with exception (report_on_exception is true):
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_server'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:45:in 'block (2 levels) in Jekyll::Commands::Serve::LiveReloadReactor#start'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run_machine'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:42:in 'block in Jekyll::Commands::Serve::LiveReloadReactor#start'
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.4.1   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_server'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:45:in 'block (2 levels) in Jekyll::Commands::Serve::LiveReloadReactor#start'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run_machine'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:42:in 'block in Jekyll::Commands::Serve::LiveReloadReactor#start'
+🛑 Stopping Jekyll server...
+===== 2025-06-15 11:55:38 =====
+🚀 Starting Jekyll server...
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.387 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+#<Thread:0x00000001449e7ce0 /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:39 run> terminated with exception (report_on_exception is true):
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_server'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:45:in 'block (2 levels) in Jekyll::Commands::Serve::LiveReloadReactor#start'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run_machine'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:42:in 'block in Jekyll::Commands::Serve::LiveReloadReactor#start'
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.4.1   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in 'EventMachine.start_server'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:45:in 'block (2 levels) in Jekyll::Commands::Serve::LiveReloadReactor#start'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run_machine'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in 'EventMachine.run'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve/live_reload_reactor.rb:42:in 'block in Jekyll::Commands::Serve::LiveReloadReactor#start'
+🛑 Stopping Jekyll server...
+===== 2025-12-31 18:21:34 =====
+🚀 Starting Jekyll server...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.453 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+      Regenerating: 1 file(s) changed at 2025-12-31 18:21:35
+                    jekyll_viewer.log
+        LiveReload: Browser connected
+                    ...done in 0.587245 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:21:50
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.361593 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:21:52
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.335955 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:21:57
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.30248 seconds.
+                    
+[2025-12-31 18:21:58] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2025-12-31 18:22:10
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.353078 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:22:20
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.342625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:22:24
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.306141 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:22:35
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.358522 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:22:47
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.33322 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:22:55
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.328572 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:23:02
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.332494 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:23:10
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.341261 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:23:21
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.403547 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:23:27
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.373488 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:23:32
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.340236 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:23:34
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.336743 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:23:38
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.339426 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:23:48
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.330477 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:23:49
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.319795 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:23:50
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.337038 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:23:56
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.329408 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:24:02
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.319847 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:24:05
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.336309 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:24:07
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.324343 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:24:12
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.328742 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:24:18
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.308023 seconds.
+                    
+[2025-12-31 18:24:18] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2025-12-31 18:24:23
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.342949 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:24:28
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.330948 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:24:36
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.330056 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:24:53
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.373549 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:24:55
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.336057 seconds.
+                    
+[2025-12-31 18:24:56] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2025-12-31 18:25:00
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.355169 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:25:16
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.365092 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:25:23
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.33672 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:25:28
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.326607 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:25:36
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.344761 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:25:42
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.330031 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:25:43
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.347868 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:25:49
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.323083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:26:22
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.407106 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:27:30
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.41332 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:27:32
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.326987 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:29:37
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.355054 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:29:39
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.346079 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:29:57
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.374099 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:29:58
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.393833 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:30:06
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.362355 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:30:21
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.347536 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:30:34
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.37363 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:30:43
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.343701 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2025-12-31 18:30:50
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.411017 seconds.
+                    
+🛑 Stopping Jekyll server...
+===== 2026-01-01 23:21:08 =====
+🚀 Starting Jekyll server...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.565 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+      Regenerating: 1 file(s) changed at 2026-01-01 23:21:10
+                    jekyll_viewer.log
+        LiveReload: Browser connected
+                    ...done in 0.494826 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-01 23:22:53
+                    jekyll_viewer.log
+                    ...done in 0.379429 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-01-01 23:25:47
+                    jekyll_viewer.log
+                    POSTING_GUIDE.md
+                    ...done in 0.381754 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-01 23:59:20
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.426684 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-01 23:59:21
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.377808 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-01 23:59:30
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.325163 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-01 23:59:35
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.31502 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-01 23:59:54
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.342056 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:00:01
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.344756 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:00:07
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.336137 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:00:11
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.36288 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:00:16
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.342816 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:00:20
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.336411 seconds.
+                    
+[2026-01-02 00:01:49] ERROR '/posts/Deep-Learning-From-Scratch-5_00_en/' not found.
+[2026-01-02 00:01:51] ERROR '/posts/Deep-Learning-From-Scratch-5_00_en/' not found.
+      Regenerating: 1 file(s) changed at 2026-01-02 00:02:02
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.377415 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:15:40
+                    .claude/settings.local.json
+                    ...done in 0.385234 seconds.
+                    

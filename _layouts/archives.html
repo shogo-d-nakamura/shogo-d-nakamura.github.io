@@ -9,7 +9,19 @@ layout: page
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
 
 <div id="archives" class="pl-xl-3">
+  {% comment %} Filter to show only English posts (those ending with _en.md) {% endcomment %}
   {% for post in site.posts %}
+    {% comment %} Check if post filename ends with _en.md to identify English posts {% endcomment %}
+    {% assign is_english_post = false %}
+    {% if post.path contains '_en.md' %}
+      {% assign is_english_post = true %}
+    {% endif %}
+    
+    {% comment %} Skip non-English posts {% endcomment %}
+    {% unless is_english_post %}
+      {% continue %}
+    {% endunless %}
+    
     {% assign cur_year = post.date | date: '%Y' %}
 
     {% if cur_year != last_year %}

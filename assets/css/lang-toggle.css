@@ -1,13 +1,44 @@
 ---
 ---
 
-/* Language toggle functionality */
+/* Language toggle functionality with smooth transitions */
+.post-item {
+  transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
 .post-item[data-lang="ja"].lang-filter-en {
   display: none !important;
 }
 
 .post-item[data-lang="en"].lang-filter-ja {
   display: none !important;
+}
+
+/* Smooth fade-in for visible posts */
+.post-item:not([style*="display: none"]) {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Optional: Add stagger effect for multiple posts */
+.post-item {
+  animation-fill-mode: both;
+}
+
+.lang-filter-ja .post-item[data-lang="ja"],
+.lang-filter-en .post-item[data-lang="en"] {
+  animation: fadeInUp 0.4s ease-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 /* Language toggle button styling */
@@ -45,6 +76,47 @@
 .lang-switching {
   opacity: 0.7;
   transform: scale(0.95);
+  transition: all 0.2s ease-in-out;
+}
+
+/* Enhanced loading state */
+.lang-loading {
+  position: relative;
+  pointer-events: none;
+}
+
+.lang-loading::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 12px;
+  height: 12px;
+  margin: -6px 0 0 -6px;
+  border: 2px solid transparent;
+  border-top: 2px solid currentColor;
+  border-radius: 50%;
+  animation: lang-spin 0.8s linear infinite;
+}
+
+@keyframes lang-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Focus styles for better accessibility */
+#lang-toggle .btn:focus {
+  outline: 2px solid var(--btn-focus-color, #0066cc);
+  outline-offset: 2px;
+}
+
+/* Improved active state */
+#lang-toggle .btn.active {
+  background-color: var(--btn-active-bg);
+  border-color: var(--btn-active-border);
+  color: var(--btn-active-color);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  z-index: 2;
 }
 
 /* Language indicator in post lists */

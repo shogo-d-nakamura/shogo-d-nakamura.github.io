@@ -3,7 +3,13 @@
     "allow": [
       "Bash(bundle exec jekyll serve:*)",
       "Bash(curl:*)",
-      "Bash(pkill:*)"
+      "Bash(pkill:*)",
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(grep:*)",
+      "Bash(rg:*)",
+      "Bash(cat:*)",
+      "Bash(bundle info:*)"
     ],
     "deny": []
   }

@@ -1,6 +1,7 @@
-<!-- Get 5 last posted/updated posts -->
+<!-- Get recent posts, ensuring both language versions are included -->
 
-{% assign MAX_SIZE = 5 %}
+{% assign MAX_UNIQUE_POSTS = 3 %}
+{% assign MAX_TOTAL_SIZE = 6 %}
 
 {% assign all_list = '' | split: '' %}
 
@@ -17,14 +18,34 @@
 {% assign all_list = all_list | sort | reverse %}
 
 {% assign update_list = '' | split: '' %}
+{% assign seen_refs = '' | split: '' %}
+{% assign unique_count = 0 %}
 
-{% for entry in all_list limit: MAX_SIZE %}
-  {% assign update_list = update_list | push: entry %}
+{% for entry in all_list %}
+  {% if update_list.size >= MAX_TOTAL_SIZE %}
+    {% break %}
+  {% endif %}
+  
+  {% assign index = entry | split: '::' | last | plus: 0 %}
+  {% assign post = site.posts[index] %}
+  
+  {% comment %} Track unique posts by ref field to ensure both language versions {% endcomment %}
+  {% assign post_ref = post.ref | default: post.slug %}
+  
+  {% unless seen_refs contains post_ref %}
+    {% assign seen_refs = seen_refs | push: post_ref %}
+    {% assign unique_count = unique_count | plus: 1 %}
+  {% endunless %}
+  
+  {% comment %} Include post if we haven't exceeded unique limit, or if it's a language pair of an existing post {% endcomment %}
+  {% if unique_count <= MAX_UNIQUE_POSTS or seen_refs contains post_ref %}
+    {% assign update_list = update_list | push: entry %}
+  {% endif %}
 {% endfor %}
 
 {% if update_list.size > 0 %}
   <section id="access-lastmod">
-    <h2 class="panel-heading">{{- site.data.locales[include.lang].panel.lastmod -}}</h2>
+    <h2 class="panel-heading">Recently Updated</h2>
     <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
       {% for item in update_list %}
         {% assign index = item | split: '::' | last | plus: 0 %}
