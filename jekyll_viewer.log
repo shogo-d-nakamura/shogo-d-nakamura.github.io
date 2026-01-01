@@ -12236,3 +12236,247 @@ LiveReload address: http://127.0.0.1:35729
                     jekyll_viewer.log
                     ...done in 0.39663 seconds.
                     
+[2026-01-02 00:29:55] ERROR '/posts/Deep-Learning-From-Scratch-5_00_en/' not found.
+      Regenerating: 1 file(s) changed at 2026-01-02 00:31:47
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.464696 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:31:48
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.386631 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:32:06
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.38477 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:32:11
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.35702 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:32:12
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.352775 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:32:21
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.412207 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:32:31
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.374239 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:32:35
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.362577 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:32:38
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.349825 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:32:41
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.35303 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:32:47
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.346247 seconds.
+                    
+[2026-01-02 00:32:47] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:10 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2026-01-02 00:32:49
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.362201 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:32:52
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.356976 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:33:01
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.349998 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:33:09
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.362743 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:33:19
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.493655 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:55:52
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00 copy.md
+                    ...done in 0.45434 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-01-02 00:56:08
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00 copy.md
+                    ...done in 0.391087 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:56:21
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md
+                    ...done in 0.413915 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:56:35
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md
+[31m             Error: YAML Exception reading /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md: (<unknown>): could not find expected ':' while scanning a simple key at line 11 column 1[0m
+                    ...done in 0.413763 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:56:36
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md
+[31m             Error: YAML Exception reading /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md: (<unknown>): could not find expected ':' while scanning a simple key at line 10 column 1[0m
+                    ...done in 0.39823 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:56:47
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md
+[31m             Error: YAML Exception reading /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md: (<unknown>): could not find expected ':' while scanning a simple key at line 10 column 1[0m
+                    ...done in 0.448029 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:56:52
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+[31m             Error: YAML Exception reading /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md: (<unknown>): could not find expected ':' while scanning a simple key at line 10 column 1[0m
+[33m          Skipping: _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md has a future date[0m
+                    ...done in 0.36297 seconds.
+                    
+[2026-01-02 00:56:52] ERROR '/posts/Deep-Learning-From-Scratch-5_00/' not found.
+[2026-01-02 00:57:08] ERROR '/posts/Deep-Learning-From-Scratch-5_00/' not found.
+[2026-01-02 00:57:08] ERROR '/posts/Deep-Learning-From-Scratch-5_00/' not found.
+      Regenerating: 1 file(s) changed at 2026-01-02 00:57:25
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+[31m             Error: YAML Exception reading /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md: (<unknown>): could not find expected ':' while scanning a simple key at line 10 column 1[0m
+                    ...done in 0.480521 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 00:57:30
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md
+[31m             Error: YAML Exception reading /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md: (<unknown>): could not find expected ':' while scanning a simple key at line 10 column 1[0m
+                    ...done in 0.402172 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:01:04
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md
+[31m             Error: YAML Exception reading /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md: (<unknown>): could not find expected ':' while scanning a simple key at line 10 column 1[0m
+                    ...done in 0.418572 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:01:20
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md
+[31m             Error: YAML Exception reading /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md: (<unknown>): could not find expected ':' while scanning a simple key at line 10 column 1[0m
+                    ...done in 0.403776 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:01:46
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md
+                    ...done in 0.413801 seconds.
+                    
+[2026-01-02 01:01:47] ERROR '/posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en/' not found.
+      Regenerating: 1 file(s) changed at 2026-01-02 01:12:28
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.466764 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:12:29
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md
+                    ...done in 0.388461 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:16:11
+                    _posts/2025-05-25-mcp_autodock_vina.md
+                    ...done in 0.411842 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:16:27
+                    _posts/2025-05-25-mcp_autodock_vina.md
+                    ...done in 0.415684 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:16:29
+                    _posts/2025-05-25-mcp_autodock_vina.md
+                    ...done in 0.385366 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:16:35
+                    _posts/2025-05-25-mcp_autodock_vina.md
+                    ...done in 0.374178 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-01-02 01:19:18
+                    post.sh
+                    jekyll_viewer.log
+                    ...done in 0.415181 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:19:27
+                    _includes/update-list.html
+                    ...done in 0.438763 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:19:35
+                    _includes/update-list.html
+                    ...done in 0.36143 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:25:20
+                    _includes/update-list.html
+                    ...done in 0.44585 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:27:21
+                    _posts/2025-06-15-anki-mcp_en.md
+                    ...done in 0.395289 seconds.
+                    
+[2026-01-02 01:27:21] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2026-01-02 01:27:27
+                    _posts/2025-06-15-anki-mcp.md
+                    ...done in 0.404397 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:27:41
+                    _posts/2025-06-15-anki-mcp_en.md
+                    ...done in 0.414087 seconds.
+                    
+[2026-01-02 01:27:42] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2026-01-02 01:27:47
+                    _posts/2025-06-15-anki-mcp.md
+                    ...done in 0.380816 seconds.
+                    
+[2026-01-02 01:27:47] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:23 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2026-01-02 01:31:48
+                    _includes/update-list.html
+                    ...done in 0.474592 seconds.
+                    
+[2026-01-02 01:31:49] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2026-01-02 01:31:49
+                    _includes/update-list.html
+                    ...done in 0.372962 seconds.
+                    
+[2026-01-02 01:31:49] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2026-01-02 01:32:09
+                    _includes/update-list.html
+                    ...done in 0.420672 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:35:19
+                    jekyll_viewer.log
+                    ...done in 0.350521 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:35:39
+                    jekyll_viewer.log
+                    ...done in 0.349746 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:35:40
+                    jekyll_viewer.log
+                    ...done in 0.378692 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:35:41
+                    jekyll_viewer.log
+                    ...done in 0.381627 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:35:43
+                    jekyll_viewer.log
+                    ...done in 0.34008 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-02 01:35:55
+                    jekyll_viewer.log
+                    ...done in 0.405759 seconds.
+                    

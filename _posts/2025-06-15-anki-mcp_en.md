@@ -6,6 +6,8 @@ description: ''
 category: 'English'
 tags: [LLM, Anki]
 published: true
+lang: en
+ref: anki-mcp
 ---
 
 

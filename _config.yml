@@ -16,7 +16,7 @@ timezone: Asia/Tokyo
 
 title: Shogo Nakamura # the main title
 
-tagline: "Organic Synthetic Chemistry,<br>Cheminformatcs,<br>Machine Learning" # it will display as the subtitle
+tagline: "Organic Synthetic Chemistry,<br>Cheminformatcs,<br>Machine Learning,<br>Computer Aided Drug Discovery" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.

@@ -1,55 +1,37 @@
 <!-- Get recent posts, ensuring both language versions are included -->
 
-{% assign MAX_UNIQUE_POSTS = 3 %}
-{% assign MAX_TOTAL_SIZE = 6 %}
-
-{% assign all_list = '' | split: '' %}
-
-{% for post in site.posts %}
-  {% assign datetime = post.last_modified_at | default: post.date %}
-
-  {% capture elem %}
-    {{- datetime | date: "%Y%m%d%H%M%S" -}}::{{- forloop.index0 -}}
-  {% endcapture %}
-
-  {% assign all_list = all_list | push: elem %}
-{% endfor %}
-
-{% assign all_list = all_list | sort | reverse %}
+{% assign MAX_UNIQUE_POSTS = 5 %}
+{% assign MAX_TOTAL_SIZE = 10 %}
 
 {% assign update_list = '' | split: '' %}
 {% assign seen_refs = '' | split: '' %}
 {% assign unique_count = 0 %}
 
-{% for entry in all_list %}
+{% comment %} site.posts is already sorted by date, newest first {% endcomment %}
+{% for post in site.posts %}
   {% if update_list.size >= MAX_TOTAL_SIZE %}
     {% break %}
   {% endif %}
-  
-  {% assign index = entry | split: '::' | last | plus: 0 %}
-  {% assign post = site.posts[index] %}
-  
+
   {% comment %} Track unique posts by ref field to ensure both language versions {% endcomment %}
   {% assign post_ref = post.ref | default: post.slug %}
-  
+
   {% unless seen_refs contains post_ref %}
     {% assign seen_refs = seen_refs | push: post_ref %}
     {% assign unique_count = unique_count | plus: 1 %}
   {% endunless %}
-  
+
   {% comment %} Include post if we haven't exceeded unique limit, or if it's a language pair of an existing post {% endcomment %}
   {% if unique_count <= MAX_UNIQUE_POSTS or seen_refs contains post_ref %}
-    {% assign update_list = update_list | push: entry %}
+    {% assign update_list = update_list | push: post %}
   {% endif %}
 {% endfor %}
 
 {% if update_list.size > 0 %}
   <section id="access-lastmod">
-    <h2 class="panel-heading">Recently Updated</h2>
+    <h2 class="panel-heading">Recent Posts</h2>
     <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
-      {% for item in update_list %}
-        {% assign index = item | split: '::' | last | plus: 0 %}
-        {% assign post = site.posts[index] %}
+      {% for post in update_list %}
         {% assign url = post.url | relative_url %}
         <li class="text-truncate lh-lg" data-lang="{{ post.lang | default: 'ja' }}">
           <a href="{{ url }}">{{ post.title }}</a>
