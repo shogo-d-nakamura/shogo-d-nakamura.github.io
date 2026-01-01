@@ -36,9 +36,11 @@ Sometimes the formulas don’t render correctly. If that happens, try reloading 
 * Central Limit Theorem (CLT)
 
   * Suppose we sample (N) times from a probability density function (p(x)) and obtain a set of samples (\mathcal{G}={x^{(1)}, x^{(2)}, \dots, x^{(N)}}). Then the sample mean
+    
     $$
     \bar{x} = \frac{x^{(1)} + x^{(2)} + \dots + x^{(N)}}{N}
     $$
+    
     follows a normal distribution. This is the Central Limit Theorem. Since the sample mean becomes normally distributed, the (pre-averaging) sum of samples also becomes normally distributed. The original distribution (p(x)) used for sampling can be any PDF: it is known that the sample sum/mean becomes normal regardless of the underlying distribution, though proving this is apparently difficult and is omitted in the book.
 
 ---
