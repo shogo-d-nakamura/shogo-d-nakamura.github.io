@@ -171,16 +171,19 @@ $$
 	  $$ v = \sum_{i=1}^d y_i q_i$$
 	-  $k$ 番目の軸の更新後の座標 $y_k$ は、両辺に左から $k$ 番目の固有ベクトル $q_k^\top$ をかけることで得られる。 $q_k$ は直交基底なので、異なる軸との内積は0になる。
 
-	  $$ q_k^\top v = q_k^\top \sum_{i=1}^d y_i q_i
-	  = \sum_{i=1}^d y_i (q_k^\top q_i)
-	  = \sum_{i=1}^d y_i \delta_{ki}  
-	  = y_k $$
+	$$
+	q_k^\top v = q_k^\top \sum_{i=1}^d y_i q_i
+	= \sum_{i=1}^d y_i (q_k^\top q_i)
+	= \sum_{i=1}^d y_i \delta_{ki}  
+	= y_k
+	$$
 
 	- 全ての軸に対してこれを計算すれば、更新後の座標はもとのベクトルを使って、
 	  $$y=(q_1^\top, q_2^\top, ... q_N^\top)v=Q^{\top}v$$
 	- さらに、直交行列 $Q$ は、任意のベクトル $v$ にかけてもノルムが変わらないため、変換しても距離が一定に保たれる。
-	
-	$$|Q^\top v|^2 = v^\top QQ^\top v = v^\top v = |v|^2$$$$(Q^{-1}=Q^\top)$$
+	$$
+	|Q^\top v|^2 = v^\top QQ^\top v = v^\top v = |v|^2$$$$(Q^{-1}=Q^\top)
+	$$
 
 	- 以上のことから、$Q^\top$をかけるのは回転であると言える。
 	- $v=(x-\mu)$ とすれば、元々の式になる。
