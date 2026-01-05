@@ -13073,3 +13073,207 @@ LiveReload address: http://127.0.0.1:35729
                     ...done in 0.487199 seconds.
                     
 🛑 Stopping Jekyll server...
+===== 2026-01-06 02:04:42 =====
+🚀 Starting Jekyll server...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.637 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2026-01-06 02:04:43
+                    jekyll_viewer.log
+                    ...done in 0.53671 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:04:56
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.473228 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:04:58
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.451945 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:04
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.445012 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:06
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.477776 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:10
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.436175 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:18
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.449233 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:19
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.496611 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:23
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.431764 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:29
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.437993 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:34
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.443881 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:38
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.4659 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:41
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.44315 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:43
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.465686 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:46
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.468911 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:47
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.45016 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:50
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.460353 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:52
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.46225 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:55
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.46337 seconds.
+                    
+[2026-01-06 02:05:55] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:18 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:56
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.461692 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:05:59
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.489545 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:06:00
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.469804 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:06:05
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.493331 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:06:08
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.472139 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:06:09
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.493088 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:06:11
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.505738 seconds.
+                    
+[2026-01-06 02:06:11] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2026-01-06 02:06:16
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.460251 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:06:18
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.482741 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:06:21
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.468096 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:06:25
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.461449 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:06:26
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.459532 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:06:28
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.49846 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:06:29
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.512661 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:06:32
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.494428 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:06:33
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.509268 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-06 02:06:34
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.501306 seconds.
+                    
+🛑 Stopping Jekyll server...
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.4.1   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:291:in 'Thread#join': SIGTERM (SignalException)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:291:in 'Jekyll::Commands::Serve.boot_or_detach'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:221:in 'Jekyll::Commands::Serve.start_up_webrick'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:102:in 'Jekyll::Commands::Serve.process'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in 'block in Jekyll::Command.process_with_graceful_fail'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in 'Array#each'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in 'Jekyll::Command.process_with_graceful_fail'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:85:in 'block (2 levels) in Jekyll::Commands::Serve.init_with_program'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in 'block in Mercenary::Command#execute'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in 'Array#each'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in 'Mercenary::Command#execute'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in 'Mercenary::Program#go'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/mercenary-0.4.0/lib/mercenary.rb:21:in 'Mercenary.program'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/exe/jekyll:15:in '<top (required)>'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/bin/jekyll:25:in 'Kernel#load'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/bin/jekyll:25:in '<top (required)>'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/cli/exec.rb:59:in 'Kernel.load'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/cli/exec.rb:59:in 'Bundler::CLI::Exec#kernel_load'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/cli/exec.rb:23:in 'Bundler::CLI::Exec#run'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/cli.rb:452:in 'Bundler::CLI#exec'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/vendor/thor/lib/thor/command.rb:28:in 'Bundler::Thor::Command#run'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/vendor/thor/lib/thor/invocation.rb:127:in 'Bundler::Thor::Invocation#invoke_command'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/vendor/thor/lib/thor.rb:538:in 'Bundler::Thor.dispatch'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/cli.rb:35:in 'Bundler::CLI.dispatch'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/vendor/thor/lib/thor/base.rb:584:in 'Bundler::Thor::Base::ClassMethods#start'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/cli.rb:29:in 'Bundler::CLI.start'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/gems/3.4.0/gems/bundler-2.6.2/exe/bundle:28:in 'block in <top (required)>'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/friendly_errors.rb:117:in 'Bundler.with_friendly_errors'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/gems/3.4.0/gems/bundler-2.6.2/exe/bundle:20:in '<top (required)>'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/bin/bundle:25:in 'Kernel#load'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/bin/bundle:25:in '<main>'

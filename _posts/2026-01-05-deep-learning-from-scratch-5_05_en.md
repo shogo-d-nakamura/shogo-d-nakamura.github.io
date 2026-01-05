@@ -21,11 +21,13 @@ The explanations in Deep Learning from Scratch Volume 5 feel like they've conden
 
 When a random variable takes a value $$x$$, the information content it provides is defined as follows:
 
+
 $$
 h(x) = -\log_2 p(x)
 $$
 
 The base of the logarithm has flexibility; when base 2 is used, the unit is called bits. For example, if $$p(x)=1/2$$, the result is 1 bit.
+
 
 $$
 h(x)= -\log_2(1/2)=1
@@ -33,11 +35,13 @@ $$
 
 Consider a situation where a sender wants to convey the value of $$x$$ to a receiver. The information content obtained from a single observation is $$h(X)$$, but since $$x$$ is determined probabilistically, the average (expected value) of this is the entropy.
 
+
 $$
 H[X] = \mathbb{E}_{p}\left[h(X)\right]
 $$
 
 For discrete cases:
+
 
 $$
 H[X] = -\sum_x p(x)\log_2 p(x)
@@ -49,11 +53,13 @@ For discrete random variables, entropy can be defined straightforwardly. However
 
 Consider quantizing a continuous probability density function into intervals of width $$\Delta$$. The probability that a data point $$x$$ falls into interval $$i$$ can be written as:
 
+
 $$
 p(x_i)\Delta
 $$
 
 Computing the entropy with this discretized probability:
+
 
 $$
 H_\Delta
@@ -63,17 +69,20 @@ $$
 
 Since $$\sum_i p(x_i)\Delta \approx \int p(x)\,dx = 1$$, the second term becomes:
 
+
 $$
 -\sum_i p(x_i)\Delta \ln\Delta \approx -\ln\Delta
 $$
 
 When we construct the entropy from this discretized probability and consider $$\Delta\to 0$$, the second term diverges. The first term, which remains finite in the limit $$\Delta\to 0$$, is called differential entropy $$H[x]$$:
 
+
 $$
 H[x] = -\int p(x)\ln p(x) dx
 $$
 
 The information required (discrete entropy) to distinguish $$x$$ "up to precision $$\Delta$$" with quantization width $$\Delta$$ is approximately:
+
 
 $$
 H_\Delta \approx H[x] - \ln\Delta
@@ -89,17 +98,20 @@ Consider modeling the true distribution $$p(x)$$ with an approximate distributio
 
 When a continuous variable $$x$$ is quantized with interval width $$\Delta$$, let $$x_i$$ be the representative value of interval $$i$$. When the true distribution is $$p(x)$$, let $$P_i$$ denote the probability of interval $$i$$ as follows:
 
+
 $$
 P_i \approx p(x_i)\Delta
 $$
 
 The probability of interval $$i$$ computed by model $$q(x)$$ is:
 
+
 $$
 Q_i \approx q(x_i)\Delta
 $$
 
 Recall that the information content when a random variable takes value $$x$$ is defined as:
+
 
 $$
 h(x) = -\ln p(x)
@@ -146,6 +158,7 @@ $$
 
 we have:
 
+
 $$
 \ln\frac{P_i}{Q_i}
 = \ln\frac{p(x_i)\Delta}{q(x_i)\Delta}
@@ -154,6 +167,7 @@ $$
 
 Thus, $$\Delta$$ can be canceled, and:
 
+
 $$
 \sum_i P_i\ln\frac{P_i}{Q_i}
 \approx
@@ -161,6 +175,7 @@ $$
 $$
 
 Taking the limit as $$\Delta \to 0$$:
+
 
 $$
 \sum_i p(x_i)\Delta \ln\frac{p(x_i)}{q(x_i)}
@@ -174,11 +189,13 @@ In differential entropy, specifying continuous values with infinite precision re
 
 Writing KL divergence as $$\mathrm{KL}(p\|q)$$:
 
+
 $$
 \mathrm{KL}(p\|q)=\int p(x)\ln\frac{p(x)}{q(x)} dx
 $$
 
 In computing the expected information content, the data is weighted by the true distribution $$p$$ that generates it. In other words, where large penalties are given when distributions are far apart is determined by the true distribution $$p$$ that generates the data. Therefore, KL divergence changes its value when the order of $$p$$ and $$q$$ is swapped.
+
 
 $$
 \mathrm{KL}(p\|q)\neq \mathrm{KL}(q\|p)
@@ -195,12 +212,14 @@ In [[step_04]], it was explained that the log-likelihood of GMM takes a log-sum 
 Let $$\mathbf{X}$$ be the observed data, $$\mathbf{Z}$$ be the latent variables, $$\boldsymbol{\theta}$$ be all parameters, and $$q(\mathbf{Z})$$ be an auxiliary distribution introduced on the latent variables.
 Marginalizing over latent variables:
 
+
 $$
 p(\mathbf{X}|\boldsymbol{\theta})
 =\sum_{\mathbf{Z}} p(\mathbf{X},\mathbf{Z}|\boldsymbol{\theta})
 $$
 
 The log marginal likelihood we want to maximize in maximum likelihood estimation is:
+
 
 $$
 \ln p(\mathbf{X}|\boldsymbol{\theta})
@@ -214,12 +233,14 @@ Here, since $$\ln$$ is outside $$\sum_{\mathbf{Z}}$$, this cannot be solved anal
 We introduce an arbitrary distribution $$q(\mathbf{Z})$$ over latent variables $$\mathbf{Z}$$.
 Considering the range where $$q(\mathbf{Z})>0$$, we multiply the marginalized log-likelihood by $$\frac{q(\mathbf{Z})}{q(\mathbf{Z})}$$:
 
+
 $$
 \ln p(\mathbf{X}|\boldsymbol{\theta})
 =\ln\sum_{\mathbf{Z}} q(\mathbf{Z})\frac{p(\mathbf{X},\mathbf{Z}|\boldsymbol{\theta})}{q(\mathbf{Z})}
 $$
 
 Applying Jensen's inequality:
+
 
 $$
 \ln p(\mathbf{X}|\boldsymbol{\theta})
@@ -235,6 +256,7 @@ In Deep Learning from Scratch 5, the derivation transforms the log-likelihood in
 
 Also, transforming ELBO:
 
+
 $$
 \mathcal{L}(q,\boldsymbol{\theta})
 = \sum_{\mathbf{Z}} q(\mathbf{Z})\ln p(\mathbf{X},\mathbf{Z}|\boldsymbol{\theta})
@@ -247,11 +269,13 @@ can be decomposed this way. The second term is the entropy of $$q$$.
 
 Looking at the relationship between log-likelihood and lower bound, their difference becomes KL divergence:
 
+
 $$
 \ln p(\mathbf{X}|\boldsymbol{\theta})-\mathcal{L}(q,\boldsymbol{\theta})=\mathrm{KL}(q\|p)
 $$
 
 The right-hand side takes the form:
+
 
 $$
 \mathrm{KL}(q\|p)=
@@ -261,6 +285,7 @@ $$
 
 (where $$p(\mathbf{Z}|\mathbf{X},\boldsymbol{\theta})$$ is the posterior distribution of latent variables).
 Using the non-negativity of KL divergence as mentioned earlier, we can understand the relationship between log-likelihood and ELBO:
+
 
 $$
 \ln p(\mathbf{X}|\boldsymbol{\theta}) \ge \mathcal{L}(q,\boldsymbol{\theta})
@@ -279,6 +304,7 @@ Let the parameters at a given time step be $$\boldsymbol{\theta}^{old}$$. In the
 
 From the relationship between log-likelihood, lower bound, and KL divergence mentioned earlier, since log-likelihood is a constant independent of $$q$$, to maximize $$\mathcal{L}$$ with respect to $$q$$, we need to minimize KL divergence:
 
+
 $$
 \ln p(\mathbf{X}|\boldsymbol{\theta}^{old})
 =
@@ -289,11 +315,13 @@ $$
 
 Since KL divergence takes its minimum value of 0 when $$q(\mathbf{Z})$$ matches $$p(\mathbf{Z}\mid \mathbf{X},\boldsymbol{\theta}^{old})$$, the solution is:
 
+
 $$
 q^{new}(\mathbf{Z})
 =
 p(\mathbf{Z}|\mathbf{X},\boldsymbol{\theta}^{old})
 $$
+
 
 $$
 \mathcal{L}(q^{new},\boldsymbol{\theta}^{old})
@@ -305,6 +333,7 @@ $$
 
 In the M-step, the goal is to maximize the lower bound with respect to $$\theta$$ while keeping $$q^{new}$$ computed in the E-step fixed, to obtain $$\boldsymbol{\theta}^{new}$$:
 
+
 $$
 \boldsymbol{\theta}^{new}
 =
@@ -312,6 +341,7 @@ $$
 $$
 
 In the following $$\mathcal{L}$$, the second term does not depend on $$\boldsymbol{\theta}$$:
+
 
 $$
 \mathcal{L}(q,\boldsymbol{\theta})
@@ -323,11 +353,13 @@ $$
 
 Therefore, the M-step is a maximization problem of the expected value of the complete data log-likelihood with respect to $$\mathbf{Z}$$:
 
+
 $$
 \sum_{\mathbf{Z}} q^{new}(\mathbf{Z})\ln p(\mathbf{X},\mathbf{Z}|\boldsymbol{\theta})
 $$
 
 Following PRML, we define this expected value as $$\mathcal{Q}(\boldsymbol{\theta},\boldsymbol{\theta}^{old})$$:
+
 
 $$
 \mathcal{Q}(\boldsymbol{\theta},\boldsymbol{\theta}^{old})
@@ -339,6 +371,7 @@ $$
 $$
 
 By solving this equation with $$q^{new}(\mathbf{Z})$$ obtained in the E-step, we find $$\boldsymbol{\theta}^{new}$$ that maximizes this expected value. Since $$\mathcal{Q}(\boldsymbol{\theta},\boldsymbol{\theta}^{old})$$ takes a sum-log form rather than log-sum, we can analytically derive the update equations:
+
 
 $$
 \boldsymbol{\theta}^{new}=\arg\max_{\boldsymbol{\theta}} \mathcal{Q}(\boldsymbol{\theta},\boldsymbol{\theta}^{old})
