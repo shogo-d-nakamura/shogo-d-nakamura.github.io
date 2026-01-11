@@ -14086,3 +14086,185 @@ LiveReload address: http://127.0.0.1:35729
                     _posts/2026-01-11-test10.md
                     ...done in 0.551556 seconds.
                     
+🛑 Stopping Jekyll server...
+===== 2026-01-11 16:39:49 =====
+🚀 Starting Jekyll server...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.695 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2026-01-11 16:39:51
+                    jekyll_viewer.log
+                    ...done in 0.614247 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:09
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.630824 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:12
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.533744 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:14
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.550272 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:17
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.552076 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:24
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.543169 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:26
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.584334 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:29
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.544767 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:32
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.561545 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:35
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.529114 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:37
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.550797 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:39
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.580856 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:43
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.556424 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:45
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.539328 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:47
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.546474 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:50
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.534485 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:52
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.552328 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:53
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.567103 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:40:57
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.558012 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:41:00
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.68215 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:41:03
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.578714 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:41:07
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.551283 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:41:13
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.558858 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:41:15
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.527879 seconds.
+                    
+[2026-01-11 16:42:09] ERROR '/posts/deep-learning-from-scratch-5-06-2_en/' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 16:42:17
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.662637 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:42:24
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.541922 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:42:27
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.522686 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:42:36
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.529728 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:42:39
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.545871 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:42:43
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.537276 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:44:54
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.644226 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:44:59
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.550975 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:45:01
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.557862 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:45:03
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.533609 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:45:07
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.541294 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:45:15
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.554947 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:45:19
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.527318 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:45:25
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.546834 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:45:27
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.583153 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:45:30
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.568646 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:45:32
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.53899 seconds.
+                    
