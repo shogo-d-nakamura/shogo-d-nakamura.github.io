@@ -12,10 +12,17 @@ layout: page
   {% assign sorted_tags = tags | sort_natural %}
 
   {% for t in sorted_tags %}
+    {% assign tag_refs = '' | split: '' %}
+    {% for post in site.tags[t] %}
+      {% assign post_ref = post.ref | default: post.slug %}
+      {% unless tag_refs contains post_ref %}
+        {% assign tag_refs = tag_refs | push: post_ref %}
+      {% endunless %}
+    {% endfor %}
     <div>
       <a class="tag" href="{{ t | slugify | url_encode | prepend: '/tags/' | append: '/' | relative_url }}">
         {{ t -}}
-        <span class="text-muted">{{ site.tags[t].size }}</span>
+        <span class="text-muted">{{ tag_refs | size }}</span>
       </a>
     </div>
   {% endfor %}

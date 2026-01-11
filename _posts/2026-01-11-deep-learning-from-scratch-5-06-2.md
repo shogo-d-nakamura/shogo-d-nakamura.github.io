@@ -1,7 +1,7 @@
 ---
 layout: post
 title: オプティマイザ（Step 6, ゼロから作るDeep Learning 5）
-date: 2026-01-11 15:00 +0900
+date: 2026-01-11 17:00 +0900
 description: ''
 category: ['Machine Learning', 'deep-learning-from-scratch-5']
 tags: [Machine Learning, deep-learning-from-scratch-5]

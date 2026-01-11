@@ -1,16 +1,35 @@
 <!-- Navigation buttons at the bottom of the post. -->
+<!-- Language-aware navigation: only links to posts of the same language -->
+
+{% assign current_lang = page.lang | default: 'ja' %}
+{% assign same_lang_posts = site.posts | where: 'lang', current_lang %}
+
+{% assign prev_post = nil %}
+{% assign next_post = nil %}
+{% assign found_current = false %}
+
+{% for post in same_lang_posts %}
+  {% if post.url == page.url %}
+    {% assign found_current = true %}
+  {% elsif found_current == false %}
+    {% assign next_post = post %}
+  {% elsif prev_post == nil %}
+    {% assign prev_post = post %}
+    {% break %}
+  {% endif %}
+{% endfor %}
 
 <nav class="post-navigation d-flex justify-content-between" aria-label="Post Navigation">
   {% assign previous = site.data.locales[include.lang].post.button.previous %}
   {% assign next = site.data.locales[include.lang].post.button.next %}
 
-  {% if page.previous.url %}
+  {% if prev_post %}
     <a
-      href="{{ site.baseurl }}{{ page.previous.url }}"
+      href="{{ site.baseurl }}{{ prev_post.url }}"
       class="btn btn-outline-primary"
       aria-label="{{ previous }}"
     >
-      <p>{{ page.previous.title }}</p>
+      <p>{{ prev_post.title }}</p>
     </a>
   {% else %}
     <div class="btn btn-outline-primary disabled" aria-label="{{ previous }}">
@@ -18,13 +37,13 @@
     </div>
   {% endif %}
 
-  {% if page.next.url %}
+  {% if next_post %}
     <a
-      href="{{ site.baseurl }}{{page.next.url}}"
+      href="{{ site.baseurl }}{{ next_post.url }}"
       class="btn btn-outline-primary"
       aria-label="{{ next }}"
     >
-      <p>{{ page.next.title }}</p>
+      <p>{{ next_post.title }}</p>
     </a>
   {% else %}
     <div class="btn btn-outline-primary disabled" aria-label="{{ next }}">

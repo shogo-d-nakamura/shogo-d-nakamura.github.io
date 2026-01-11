@@ -5,15 +5,24 @@ layout: page
 
 {% include lang.html %}
 
+{% comment %} Count unique posts by ref for bilingual deduplication {% endcomment %}
+{% assign tag_refs = '' | split: '' %}
+{% for post in page.posts %}
+  {% assign post_ref = post.ref | default: post.slug %}
+  {% unless tag_refs contains post_ref %}
+    {% assign tag_refs = tag_refs | push: post_ref %}
+  {% endunless %}
+{% endfor %}
+
 <div id="page-tag">
   <h1 class="ps-lg-2">
     <i class="fa fa-tag fa-fw text-muted"></i>
     {{ page.title }}
-    <span class="lead text-muted ps-2">{{ page.posts | size }}</span>
+    <span class="lead text-muted ps-2">{{ tag_refs | size }}</span>
   </h1>
   <ul class="content ps-0">
     {% for post in page.posts %}
-      <li class="d-flex justify-content-between px-md-3">
+      <li class="d-flex justify-content-between px-md-3" data-lang="{{ post.lang | default: 'ja' }}">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <span class="dash flex-grow-1"></span>
         {% include datetime.html date=post.date class='text-muted small text-nowrap' lang=lang %}

@@ -8,7 +8,7 @@ tags: [deep-learning-from-scratch-5, Machine Learning]
 published: true
 math: true
 lang: en
-ref: deep-learning-from-scratch-5_05
+ref: deep-learning-from-scratch-5_05_en
 ---
 
 

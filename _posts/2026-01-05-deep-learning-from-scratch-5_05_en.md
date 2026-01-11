@@ -8,7 +8,7 @@ tags: [deep-learning-from-scratch-5, Machine Learning]
 published: true
 math: true
 lang: en
-ref: deep-learning-from-scratch-5_05
+ref: deep-learning-from-scratch-5_05_en
 ---
 
 Since the explanation of KL divergence was somewhat brief, I've written various notes while also reviewing PRML. Whether this is directly useful for practical ML engineering work is debatable.

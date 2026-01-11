@@ -9,7 +9,10 @@
       "Bash(grep:*)",
       "Bash(rg:*)",
       "Bash(cat:*)",
-      "Bash(bundle info:*)"
+      "Bash(bundle info:*)",
+      "Bash(xargs:*)",
+      "Bash(bundle show:*)",
+      "Bash(sort:*)"
     ],
     "deny": []
   }
