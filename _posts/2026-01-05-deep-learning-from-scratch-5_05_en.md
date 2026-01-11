@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Notes on Deep Learning from Scratch 5 (Steps 5)
+title: KL Divergence and EM Algorithm (Step 5, Deep Learning from Scratch 5)
 date: 2026-01-05 16:37 +0900
 description: ''
-category: 'Machine Learning'
+category: ['Machine Learning', 'deep-learning-from-scratch-5']
 tags: [deep-learning-from-scratch-5, Machine Learning]
 published: true
 math: true

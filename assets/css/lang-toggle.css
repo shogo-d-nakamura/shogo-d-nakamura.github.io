@@ -161,8 +161,32 @@
   #topbar .ms-auto {
     gap: 0.25rem;
   }
-  
+
   #search {
     margin-left: 0.5rem !important;
   }
+}
+
+/* Scrollable Recent Posts section - shows 10 posts at a time */
+#access-lastmod .content {
+  max-height: 250px;
+  overflow-y: auto;
+  padding-right: 0.5rem;
+}
+
+#access-lastmod .content::-webkit-scrollbar {
+  width: 6px;
+}
+
+#access-lastmod .content::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+#access-lastmod .content::-webkit-scrollbar-thumb {
+  background-color: rgba(128, 128, 128, 0.4);
+  border-radius: 3px;
+}
+
+#access-lastmod .content::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(128, 128, 128, 0.6);
 }

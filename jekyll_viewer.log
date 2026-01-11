@@ -13277,3 +13277,812 @@ LiveReload address: http://127.0.0.1:35729
 	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/gems/3.4.0/gems/bundler-2.6.2/exe/bundle:20:in '<top (required)>'
 	from /Users/nakamurasho/.rubies/ruby-3.4.1/bin/bundle:25:in 'Kernel#load'
 	from /Users/nakamurasho/.rubies/ruby-3.4.1/bin/bundle:25:in '<main>'
+===== 2026-01-11 14:03:27 =====
+🚀 Starting Jekyll server...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.739 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+      Regenerating: 1 file(s) changed at 2026-01-11 14:03:30
+                    jekyll_viewer.log
+        LiveReload: Browser connected
+                    ...done in 0.72317 seconds.
+                    
+[2026-01-11 14:03:42] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:04:07
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.547999 seconds.
+                    
+[2026-01-11 14:04:08] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:04:11
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.495337 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:04:21
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.535221 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:04:22
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.501689 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:04:24
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.474261 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:04:29
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.478937 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:04:35
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.511568 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:04:42
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.501992 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:04:49
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.482913 seconds.
+                    
+[2026-01-11 14:04:58] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:05:37
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.581716 seconds.
+                    
+[2026-01-11 14:05:38] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:05:38] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:05:38
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.506491 seconds.
+                    
+[2026-01-11 14:05:39] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:05:39] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:05:40
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.501413 seconds.
+                    
+[2026-01-11 14:05:41] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:05:41] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:05:47
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.51347 seconds.
+                    
+[2026-01-11 14:05:48] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:05:48] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:05:53
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.493957 seconds.
+                    
+[2026-01-11 14:05:53] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:05:53] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:06:21] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:06:53
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.568321 seconds.
+                    
+[2026-01-11 14:06:54] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:06:54] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:07:09
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.551797 seconds.
+                    
+[2026-01-11 14:07:09] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:07:10] ERROR '/assetsimages/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:07:11
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.485405 seconds.
+                    
+[2026-01-11 14:07:11] ERROR '/assetsimages/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:07:11] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2026-01-11 14:07:11] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:07:13
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.539309 seconds.
+                    
+[2026-01-11 14:07:14] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:07:14] ERROR '/assets/imgsimages/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:07:15
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.499224 seconds.
+                    
+[2026-01-11 14:07:16] ERROR '/assets/imgsimages/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:07:16] ERROR '/assets/imgimages/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:07:17
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.487543 seconds.
+                    
+[2026-01-11 14:07:18] ERROR '/assets/imgimages/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:07:18] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:07:19
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.543218 seconds.
+                    
+[2026-01-11 14:07:20] ERROR '/assets/images/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:07:20] ERROR '/assets/img/images/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:07:20
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.499709 seconds.
+                    
+[2026-01-11 14:07:21] ERROR '/assets/img/images/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:07:21] ERROR '/assets/img/2025_images/images/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:07:24
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.478127 seconds.
+                    
+[2026-01-11 14:07:25] ERROR '/assets/img/2025_images/images/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:07:25] ERROR '/assets/img/2026_images/images/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:07:27
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.517554 seconds.
+                    
+[2026-01-11 14:07:27] ERROR '/assets/img/2026_images/images/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:07:27] ERROR '/assets/img/2026_images/images/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:07:31
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.508997 seconds.
+                    
+[2026-01-11 14:07:32] ERROR '/assets/img/2026_images/images/2026_images/DL_Figure_7.3.png' not found.
+[2026-01-11 14:07:32] ERROR '/assets/img/2026_images/DL_Figure_7.3.pngimages/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:07:33
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.531576 seconds.
+                    
+[2026-01-11 14:07:33] ERROR '/assets/img/2026_images/DL_Figure_7.3.pngimages/2026_images/DL_Figure_7.3.png' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:07:35
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.512405 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:09:01
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.559767 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:09:26
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.55567 seconds.
+                    
+[2026-01-11 14:09:27] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2026-01-11 14:09:28
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.520353 seconds.
+                    
+[2026-01-11 14:09:28] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2026-01-11 14:09:36
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.478263 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:09:37
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.536228 seconds.
+                    
+[2026-01-11 14:09:38] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2026-01-11 14:15:24
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.622147 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:16:58
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.550276 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:17:23
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.564673 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:17:25
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.507585 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:17:29
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.50152 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:17:30
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.488123 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:18:03
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.586018 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:18:16
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.517374 seconds.
+                    
+[2026-01-11 14:18:17] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2026-01-11 14:18:43
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1 copy.md
+                    ...done in 0.609891 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-01-11 14:18:50
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1_en.md
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.500601 seconds.
+                    
+[2026-01-11 14:18:51] ERROR '/posts/2026-01-05-deep-learning-from-scratch-5-06-1/' not found.
+      Regenerating: 1 file(s) changed at 2026-01-11 14:18:56
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1_en.md
+                    ...done in 0.519437 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:18:58
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1_en.md
+                    ...done in 0.522556 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-01-11 14:19:28
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1 copy.md
+                    ...done in 0.589994 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:20:38
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.539566 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:20:45
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.548477 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:20:49
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.520316 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:20:54
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.618045 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:21:18
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.652251 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:21:20
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.509899 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:21:23
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.532673 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:21:33
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1_en.md
+                    ...done in 0.567561 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:21:39
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05.md
+                    ...done in 0.528365 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:21:43
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.533408 seconds.
+                    
+[2026-01-11 14:21:44] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:7 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+[2026-01-11 14:21:44] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:21 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2026-01-11 14:21:47
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00.md
+                    ...done in 0.540898 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:21:52
+                    _posts/2025-12-31-Deep-Learning-From-Scratch-5_00_en.md
+                    ...done in 0.518474 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-01-11 14:23:59
+                    .gitignore
+                    jekyll_viewer.log
+                    ...done in 0.567205 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:25:39
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1_en.md
+                    ...done in 0.615479 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:26:53
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.628554 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:26:56
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.525459 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:27:00
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.549167 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:27:03
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.522095 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:27:07
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.534224 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:27:11
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.539144 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:27:14
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.514199 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:27:16
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.502374 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:27:35
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1_en.md
+                    ...done in 0.554977 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:27:42
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1_en.md
+                    ...done in 0.570995 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:27:45
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1_en.md
+                    ...done in 0.548218 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:27:51
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1_en.md
+                    ...done in 0.545191 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:27:53
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1_en.md
+                    ...done in 0.540684 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:27:56
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1_en.md
+                    ...done in 0.531671 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:28:45
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05.md
+                    ...done in 0.597513 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:28:47
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05.md
+                    ...done in 0.560847 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:28:58
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05.md
+                    ...done in 0.556537 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:29:04
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05.md
+                    ...done in 0.550858 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:29:06
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05.md
+                    ...done in 0.536802 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:29:09
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05.md
+                    ...done in 0.575113 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:29:18
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05.md
+                    ...done in 0.540502 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:29:34
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.564556 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:29:51
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+[31m             Error: YAML Exception reading /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2026-01-05-deep-learning-from-scratch-5_05_en.md: (<unknown>): could not find expected ':' while scanning a simple key at line 4 column 1[0m
+                    ...done in 0.56867 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:29:53
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+[31m             Error: YAML Exception reading /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2026-01-05-deep-learning-from-scratch-5_05_en.md: (<unknown>): could not find expected ':' while scanning a simple key at line 4 column 1[0m
+                    ...done in 0.530837 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:29:55
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+[31m             Error: YAML Exception reading /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2026-01-05-deep-learning-from-scratch-5_05_en.md: (<unknown>): could not find expected ':' while scanning a simple key at line 4 column 1[0m
+                    ...done in 0.548087 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:29:58
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+[31m             Error: YAML Exception reading /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2026-01-05-deep-learning-from-scratch-5_05_en.md: (<unknown>): could not find expected ':' while scanning a simple key at line 4 column 1[0m
+                    ...done in 0.519968 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:30:00
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+[31m             Error: YAML Exception reading /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_posts/2026-01-05-deep-learning-from-scratch-5_05_en.md: (<unknown>): could not find expected ':' while scanning a simple key at line 4 column 1[0m
+                    ...done in 0.52877 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:30:04
+                    _posts/2026-01-05-deep-learning-from-scratch-5_05_en.md
+                    ...done in 0.537252 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-01-11 14:31:05
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-1_en.md
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1_en.md
+                    ...done in 0.61343 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2026-01-11 14:31:26
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-1.md
+                    _posts/2026-01-11-2026-01-05-deep-learning-from-scratch-5-06-1.md
+                    ...done in 0.517619 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:32:07
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.614589 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:32:23
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.602253 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:32:28
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.563632 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:32:36
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.556739 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:32:47
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+[33m          Skipping: _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md has a future date[0m
+                    ...done in 0.576649 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:32:49
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+[33m          Skipping: _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md has a future date[0m
+                    ...done in 0.586026 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:32:53
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+[33m          Skipping: _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md has a future date[0m
+                    ...done in 0.557368 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:39:10
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.628904 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:39:17
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.547921 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:39:24
+                    _posts/2026-01-11-deep-learning-from-scratch-5-06-2.md
+                    ...done in 0.573091 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:44:49
+                    _includes/update-list.html
+                    ...done in 0.697322 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 14:45:01
+                    assets/css/lang-toggle.css
+                    ...done in 0.579395 seconds.
+                    
+🛑 Stopping Jekyll server...
+[31m                    ------------------------------------------------[0m
+[31m      Jekyll 4.4.1   Please append `--trace` to the `serve` command [0m
+[31m                     for any additional information or backtrace. [0m
+[31m                    ------------------------------------------------[0m
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:291:in 'Thread#join': SIGTERM (SignalException)
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:291:in 'Jekyll::Commands::Serve.boot_or_detach'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:221:in 'Jekyll::Commands::Serve.start_up_webrick'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:102:in 'Jekyll::Commands::Serve.process'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in 'block in Jekyll::Command.process_with_graceful_fail'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in 'Array#each'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in 'Jekyll::Command.process_with_graceful_fail'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:85:in 'block (2 levels) in Jekyll::Commands::Serve.init_with_program'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in 'block in Mercenary::Command#execute'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in 'Array#each'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in 'Mercenary::Command#execute'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in 'Mercenary::Program#go'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/mercenary-0.4.0/lib/mercenary.rb:21:in 'Mercenary.program'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/exe/jekyll:15:in '<top (required)>'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/bin/jekyll:25:in 'Kernel#load'
+	from /Users/nakamurasho/.gem/ruby/3.4.1/bin/jekyll:25:in '<top (required)>'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/cli/exec.rb:59:in 'Kernel.load'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/cli/exec.rb:59:in 'Bundler::CLI::Exec#kernel_load'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/cli/exec.rb:23:in 'Bundler::CLI::Exec#run'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/cli.rb:452:in 'Bundler::CLI#exec'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/vendor/thor/lib/thor/command.rb:28:in 'Bundler::Thor::Command#run'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/vendor/thor/lib/thor/invocation.rb:127:in 'Bundler::Thor::Invocation#invoke_command'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/vendor/thor/lib/thor.rb:538:in 'Bundler::Thor.dispatch'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/cli.rb:35:in 'Bundler::CLI.dispatch'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/vendor/thor/lib/thor/base.rb:584:in 'Bundler::Thor::Base::ClassMethods#start'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/cli.rb:29:in 'Bundler::CLI.start'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/gems/3.4.0/gems/bundler-2.6.2/exe/bundle:28:in 'block in <top (required)>'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/3.4.0/bundler/friendly_errors.rb:117:in 'Bundler.with_friendly_errors'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/lib/ruby/gems/3.4.0/gems/bundler-2.6.2/exe/bundle:20:in '<top (required)>'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/bin/bundle:25:in 'Kernel#load'
+	from /Users/nakamurasho/.rubies/ruby-3.4.1/bin/bundle:25:in '<main>'
+===== 2026-01-11 16:03:59 =====
+🚀 Starting Jekyll server...
+🌐 Opening http://127.0.0.1:4000 in your default browser...
+/Users/nakamurasho/.gem/ruby/3.4.1/gems/jekyll-4.4.1/lib/jekyll.rb:26: warning: logger was loaded from the standard library, but will no longer be part of the default gems starting from Ruby 3.5.0.
+You can add logger to your Gemfile or gemspec to silence this warning.
+Configuration file: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_config.yml
+            Source: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io
+       Destination: /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.782 seconds.
+ Auto-regeneration: enabled for '/Users/nakamurasho/workspace/shogo-d-nakamura.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2026-01-11 16:05:37
+                    assets/css/lang-toggle.css
+                    ...done in 0.605037 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:05:59
+                    _posts/2026-01-11-test1.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.584182 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:06:06
+                    _posts/2026-01-11-test2.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.592592 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:06:07
+                    _posts/2026-01-11-test3.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.542199 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:06:08
+                    _posts/2026-01-11-test4.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.592401 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:06:09
+                    _posts/2026-01-11-test5.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.578923 seconds.
+                    
+[2026-01-11 16:06:10] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2026-01-11 16:06:16
+                    _posts/2026-01-11-test6.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.631378 seconds.
+                    
+[2026-01-11 16:06:16] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:8 
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'IO#eof?'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:82:in 'WEBrick::HTTPServer#run'
+	/Users/nakamurasho/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:310:in 'block in WEBrick::GenericServer#start_thread'
+      Regenerating: 1 file(s) changed at 2026-01-11 16:06:17
+                    _posts/2026-01-11-test7.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.629502 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:06:19
+                    _posts/2026-01-11-test8.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.669622 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:06:20
+                    _posts/2026-01-11-test9.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.683231 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2026-01-11 16:06:22
+                    _posts/2026-01-11-test10.md
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m           Warning: Empty `slug` generated for ''.[0m
+[33m          Conflict: The following destination is shared by multiple files.[0m
+[33m                    The written file may end up with unexpected contents.[0m
+[33m                    [36m/Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_site/categories/index.html[0m[0m
+[33m                     - categories/index.html[0m
+[33m                     - /Users/nakamurasho/workspace/shogo-d-nakamura.github.io/_tabs/categories.md[0m
+[33m                    [0m
+                    ...done in 0.724695 seconds.
+                    
+      Regenerating: 10 file(s) changed at 2026-01-11 16:06:39
+                    _posts/2026-01-11-test1.md
+                    _posts/2026-01-11-test2.md
+                    _posts/2026-01-11-test3.md
+                    _posts/2026-01-11-test4.md
+                    _posts/2026-01-11-test5.md
+                    _posts/2026-01-11-test6.md
+                    _posts/2026-01-11-test7.md
+                    _posts/2026-01-11-test8.md
+                    _posts/2026-01-11-test9.md
+                    _posts/2026-01-11-test10.md
+                    ...done in 0.551556 seconds.
+                    

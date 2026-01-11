@@ -3,7 +3,7 @@ layout: post
 title: ゼロから作るDeep Learning 5 のメモ (ステップ1-4)
 date: 2026-01-01 18:14 +0900
 description: ''
-category: 'Machine Learning'
+category: ['Machine Learning', 'deep-learning-from-scratch-5']
 tags: [deep-learning-from-scratch-5, Machine Learning]
 published: true
 math: true

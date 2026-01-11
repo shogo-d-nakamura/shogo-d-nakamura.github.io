@@ -1,9 +1,9 @@
 ---
 layout: post
-title: ゼロから作るDeep Learning 5 のメモ (ステップ5)
+title: KLダイバージェンスとEMアルゴリズム (Step 5, ゼロから作るDeep Learning 5)
 date: 2026-01-05 16:37 +0900
 description: ''
-category: 'Machine Learning'
+category: ['Machine Learning', 'deep-learning-from-scratch-5']
 tags: [deep-learning-from-scratch-5, Machine Learning]
 published: true
 math: true

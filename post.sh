@@ -19,7 +19,12 @@ if [ -f "$POST_FILE" ]; then
     REF=$(basename "$POST_FILE" | sed 's/^[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}-//' | sed 's/\.md$//')
 
     # Add math: true, lang: ja, and ref fields before the closing ---
-    sed -i '' "s/^---$/math: true\nlang: ja\nref: $REF\n---/" "$POST_FILE"
+    # Use awk to insert before the second occurrence of ---
+    awk -v ref="$REF" '
+        /^---$/ { count++ }
+        count == 2 && /^---$/ { print "math: true"; print "lang: ja"; print "ref: " ref }
+        { print }
+    ' "$POST_FILE" > "${POST_FILE}.tmp" && mv "${POST_FILE}.tmp" "$POST_FILE"
 
     echo "Created: $POST_FILE"
     echo "Added: math: true, lang: ja, ref: $REF"
