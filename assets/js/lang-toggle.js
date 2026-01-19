@@ -1,6 +1,3 @@
----
----
-
 document.addEventListener('DOMContentLoaded', function() {
   const langJaBtn = document.getElementById('lang-ja');
   const langEnBtn = document.getElementById('lang-en');
