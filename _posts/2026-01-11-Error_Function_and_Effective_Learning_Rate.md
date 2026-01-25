@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 誤差関数と実効学習率（Step 6, ゼロから作るDeep Learning 5）
+title: 誤差関数と実効学習率
 date: 2026-01-11 13:47 +0900
 description: ''
 category: ['Machine Learning', 'deep-learning-from-scratch-5']
@@ -8,9 +8,10 @@ tags: [Machine Learning, deep-learning-from-scratch-5]
 published: true
 math: true
 lang: ja
-ref: deep-learning-from-scratch-5_05
+ref: Error_Function_and_Effective_Learning_Rate
 ---
 
+[ゼロから作るDeep Learning 5](https://www.oreilly.co.jp/books/9784814400591/) を読むのに勉強したことのメモ
 
 
 # Step 6

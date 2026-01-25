@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimizers (Step 6, Deep Learning from Scratch 5)
+title: Optimizers
 date: 2026-01-11 17:00 +0900
 description: ''
 category: ['Machine Learning', 'deep-learning-from-scratch-5']
@@ -8,10 +8,10 @@ tags: [Machine Learning, deep-learning-from-scratch-5]
 published: true
 math: true
 lang: en
-ref: deep-learning-from-scratch-5-06-2_en
+ref: Optimizers_en
 ---
 
-This is a continuation of the [previous post]({% post_url 2026-01-11-deep-learning-from-scratch-5-06-1_en %}).
+This is a continuation of the previous post.
 I have summarized RMSProp, AdaGrad, AdaDelta, and Adam.
 
 

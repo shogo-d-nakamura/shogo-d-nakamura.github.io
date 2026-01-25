@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KL Divergence and EM Algorithm (Step 5, Deep Learning from Scratch 5)
+title: KL Divergence and EM Algorithm
 date: 2026-01-05 16:37 +0900
 description: ''
 category: ['Machine Learning', 'deep-learning-from-scratch-5']
@@ -8,7 +8,7 @@ tags: [deep-learning-from-scratch-5, Machine Learning]
 published: true
 math: true
 lang: en
-ref: deep-learning-from-scratch-5_05_en
+ref: Entropy_en
 ---
 
 Since the explanation of KL divergence was somewhat brief, I've written various notes while also reviewing PRML. Whether this is directly useful for practical ML engineering work is debatable.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: オプティマイザ（Step 6, ゼロから作るDeep Learning 5）
+title: オプティマイザ
 date: 2026-01-11 17:00 +0900
 description: ''
 category: ['Machine Learning', 'deep-learning-from-scratch-5']
@@ -8,11 +8,13 @@ tags: [Machine Learning, deep-learning-from-scratch-5]
 published: true
 math: true
 lang: ja
-ref: deep-learning-from-scratch-5-06-2
+ref: Optimizers
 ---
 
-[前回のポスト]({% post_url 2026-01-11-deep-learning-from-scratch-5-06-1 %})の続きです。
-RMSProp, AdaGrad, AdaDelta, Adamについてまとめました。
+[ゼロから作るDeep Learning 5](https://www.oreilly.co.jp/books/9784814400591/) を読むのに勉強したことのメモ
+
+
+前回のポストの続きで、RMSProp, AdaGrad, AdaDelta, Adamについてまとめました。
 
 
 ## Momentumの課題

@@ -28,4 +28,5 @@ assets/js/dist
 _posts/_*.md
 .claude
 CLAUDE.md
+misc*.md
 *.log

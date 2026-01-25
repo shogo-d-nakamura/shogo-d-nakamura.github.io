@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Error Function and Effective Learning Rate (Step 6, Deep Learning from Scratch 5)
+title: Error Function and Effective Learning Rate
 date: 2026-01-11 13:47 +0900
 description: ''
 category: ['Machine Learning', 'deep-learning-from-scratch-5']
@@ -8,7 +8,7 @@ tags: [deep-learning-from-scratch-5, Machine Learning]
 published: true
 math: true
 lang: en
-ref: deep-learning-from-scratch-5_05_en
+ref: Error_Function_and_Effective_Learning_Rate_en
 ---
 
 
